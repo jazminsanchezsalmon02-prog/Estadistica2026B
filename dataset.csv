@@ -1,4 +1,4 @@
-Number,Category,Action_needed,Question,Subcategory,Action,Time,Sentence
+Número,Categoria,Acción_necesaria.Pregunta,Subcategoria,Acción,Tiempo,Oración
 1,lights,1,0,kitchen,on,today,Illuminate the kitchen today.
 2,lights,1,0,kitchen,on,tomorrow,Illuminate the kitchen tomorrow.
 3,lights,1,0,kitchen,on,hour,Turn on the light in the kitchen in 10 hours.
@@ -661,4 +661,5 @@ Number,Category,Action_needed,Question,Subcategory,Action,Time,Sentence
 660,time,0,0,none,none,now,I don't want you to tell me the time.
 661,time,1,0,none,none,hour,Tell me the time in an hour.
 662,time,1,0,none,none,day,Tell me the time in a day.
+
 663,time,1,0,none,none,now,What does te clock say?
