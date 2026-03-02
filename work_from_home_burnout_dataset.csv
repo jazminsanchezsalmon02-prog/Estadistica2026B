@@ -1,4 +1,4 @@
-user_id,day_type,work_hours,screen_time_hours,meetings_count,breaks_taken,after_hours_work,sleep_hours,task_completion_rate,burnout_score,burnout_risk
+user_id,tipo_de_dia,horas_de_trabajo,horas_de_tiempo_de_pantalla,recuento_de_reuniones,descansos_tomados,trabajo_fuera-de_horario_laboral,horas_de_sueño,tasa_de_finalizacion_de-tareas,puntuacion_de-agotamiento,riesgo_de_agotamiento
 1,Weekday,9.59,11.86,4,2,0,7.55,91.2,19.17,Low
 1,Weekend,7.38,10.33,4,1,0,6.69,82.0,29.7,Low
 1,Weekend,6.31,8.92,1,2,0,8.87,80.6,32.93,Low
@@ -1799,3 +1799,4 @@ user_id,day_type,work_hours,screen_time_hours,meetings_count,breaks_taken,after_
 180,Weekend,3.92,6.39,2,1,0,6.77,74.6,34.07,Low
 180,Weekday,8.93,11.11,2,5,0,8.28,74.6,38.14,Low
 180,Weekend,4.38,6.72,0,1,0,7.13,70.7,40.76,Low
+
